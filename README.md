@@ -95,7 +95,7 @@ void loop() {
 ```
 
 ## CIRCUIT DIAGRAM:
-
+![o](https://github.com/varshithathirumalachari/Logical-operation/blob/main/LOGICAL%20OPERATION.png)
 
 ## OUTPUT:
 ![o](https://github.com/varshithathirumalachari/Logical-operation/blob/main/LOGIC%20OUTPUT.png)
