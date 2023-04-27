@@ -98,7 +98,7 @@ void loop() {
 
 
 ## OUTPUT:
-
+![o](https://github.com/varshithathirumalachari/Logical-operation/blob/main/LOGIC%20OUTPUT.png)
 ## RESULT:
 
 Thus the logical operation was performed by Arduino UNO controller
